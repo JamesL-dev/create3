@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 ##
 # @file complete_sequence.py
-#
+# @Author: James Lasso
 # @Create3 robot assignment
-#
+# 
 # @program description
 # This program uses a single actionClient class that is called to instantiate new nodes
 # to perform work/commands/tasks from instructions given in main using goals
